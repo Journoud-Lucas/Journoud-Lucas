@@ -24,6 +24,11 @@ Mon fil conducteur : comprendre comment les choses fonctionnent, du calcul d’u
 
 **Moteur de rendu en C++ · Projet académique poursuivi personnellement**
 
+<p align="center">
+  <a href="https://github.com/Journoud-Lucas/Ray-Tracing"><img src="assets/ray-tracing.png" alt="Rendu calculé par mon moteur C++ : sphère miroir et sphère en verre" width="560" /></a>
+  <br /><sub>Rendu réel du moteur · scène de démonstration miroir/verre, 600 échantillons par pixel.</sub>
+</p>
+
 Un path tracer développé pour explorer les mécanismes du rendu : **simuler la propagation de la lumière**, construire les calculs géométriques et produire une image à partir d’une scène 3D.
 
 - **Lancer de rayons et intersections** avec les objets de la scène.
@@ -43,6 +48,11 @@ Un path tracer développé pour explorer les mécanismes du rendu : **simuler la
 ### 02 — ServiceCom · Fondation ARHM
 
 **Application d’accompagnement · C++ / Qt · Android**
+
+<p align="center">
+  <a href="https://github.com/Journoud-Lucas/ServiceCom"><img src="assets/servicecom-interface.png" alt="Interface Qt de ServiceCom : choix du service, tâches et durées" width="850" /></a>
+  <br /><sub>Aperçu généré à partir de l’interface Qt du projet · données fictives de démonstration, pas de données de bénéficiaires.</sub>
+</p>
 
 Projet réalisé dans le cadre de mon **BTS SNIR**, en équipe de 4, pour la Fondation ARHM. L’application aide des personnes en situation de handicap à suivre leurs tâches et à mieux gérer le temps consacré à chacune d’elles.
 
@@ -64,6 +74,11 @@ Projet réalisé dans le cadre de mon **BTS SNIR**, en équipe de 4, pour la Fon
 
 **C++17 · Qt 6 / Widgets · JSON · Conception agile**
 
+<p align="center">
+  <a href="https://github.com/Journoud-Lucas/Planning-poker"><img src="assets/planning-poker.png" alt="Fenêtre de vote de Planning Poker avec les cartes d’estimation" width="900" /></a>
+  <br /><sub>Fenêtre de vote générée par le code du projet · tâche et participant de démonstration.</sub>
+</p>
+
 Application de bureau développée **en binôme à l’université** pour organiser l’estimation collective de tâches selon la méthode du planning poker.
 
 - Création et chargement de listes de tâches au format JSON.
@@ -80,6 +95,11 @@ Application de bureau développée **en binôme à l’université** pour organi
 ### 04 — Grandma’s Home · Gamagora
 
 **Jeu 3D multijoueur · Unity / C# · Équipe de 19 étudiants**
+
+<p align="center">
+  <a href="https://gamagora.itch.io/grandmas-home"><img src="assets/grandmas-home.png" alt="Affiche collective du jeu Grandma’s Home : enfants et fantômes autour de la maison" width="420" /></a>
+  <br /><sub>Visuel collectif de l’équipe Grandma’s Home / Gamagora · mon rôle : Gameplay Programmer.</sub>
+</p>
 
 Un jeu de type **prop hunt** : enfants et fantômes s’affrontent dans la maison de leur grand-mère. Les fantômes peuvent se dissimuler dans des objets et saboter la maison ; les enfants doivent les neutraliser tout en évitant de tout casser.
 
@@ -98,6 +118,9 @@ J’y ai contribué en tant que **Gameplay Programmer**, au sein d’une équipe
 
 ## Autres explorations techniques
 
+<details>
+<summary><strong>IA, géométrie 3D, vision par ordinateur et autres projets — voir les dépôts</strong></summary>
+
 Ces dépôts complètent mes projets principaux. Ils regroupent des **travaux académiques, prototypes et exercices**, plutôt que des produits présentés comme finalisés.
 
 | Projet | Ce que j’y explore |
@@ -111,6 +134,8 @@ Ces dépôts complètent mes projets principaux. Ils regroupent des **travaux ac
 
 **Algorithmique en C++ :** [LeetCode](https://github.com/Journoud-Lucas/LeetCode) · [Yandex CodeRun](https://github.com/Journoud-Lucas/Yandex-CodeRun) · [Yandex Contest](https://github.com/Journoud-Lucas/Yandex-Contest)  
 Résolution de problèmes, manipulation de structures de données et programmation dynamique.
+
+</details>
 
 ## Ce que j’apporte en équipe
 

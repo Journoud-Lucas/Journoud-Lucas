@@ -1,0 +1,7 @@
+# Origine des visuels
+
+- **profile-banner.svg** : bannière vectorielle créée pour ce profil.
+- **ray-tracing.png** : image calculée avec le moteur du dépôt [Ray-Tracing](https://github.com/Journoud-Lucas/Ray-Tracing). Scène alternative issue de la pièce miroir/verre du code, éclairage ponctuel, 600 échantillons par pixel et profondeur 5. Conversion PPM vers PNG sans retouche ni débruitage. Les changements de scène ont servi uniquement à la capture ; le code du dépôt n’a pas été modifié.
+- **servicecom-interface.png** : aperçu de l’interface Qt définie dans `ServiceCom/mainwindow.ui`, rendu avec Qt 6. Les textes, icônes et couleurs des commandes reprennent la configuration du projet. Le contenu de la liste est fictif et les colonnes ont été ajustées à la capture. Il s’agit d’un aperçu d’interface, pas d’une validation de fonctionnement de l’application Android.
+- **planning-poker.png** : fenêtre `EstimationDialog` rendue à partir du code du dépôt Planning-poker avec Qt 6.7.3, avec des données de démonstration.
+- **grandmas-home.png** : key art collectif de Grandma’s Home, publié par l’[Université Lumière Lyon 2 pour le Gamagora Game Show 2026](https://www.univ-lyon2.fr/universite/agenda/ggs-2026). Les crédits du jeu et de son équipe sont disponibles sur [itch.io](https://gamagora.itch.io/grandmas-home). Lucas Journoud a participé à la programmation du gameplay ; ce visuel n’est pas présenté comme sa création graphique individuelle.
