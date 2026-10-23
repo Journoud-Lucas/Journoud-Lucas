@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Journoud — Développeur logiciel C/C++</title>
+  <desc id="desc">Bannière bleu nuit avec une sphère et des rayons turquoise. Rendu 3D, applications Qt et full-stack.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1424"/><stop offset="1" stop-color="#142d44"/></linearGradient>
+    <linearGradient id="sphere" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5eead4" stop-opacity=".32"/><stop offset="1" stop-color="#38bdf8" stop-opacity=".03"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b6d4e8" stroke-width=".5" opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <path d="M0 299H1200" stroke="#5eead4" stroke-width="2" opacity=".6"/>
+  <rect x="52" y="53" width="32" height="4" rx="2" fill="#5eead4"/>
+  <text x="98" y="61" fill="#9fb5ca" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">SOFTWARE DEVELOPMENT</text>
+  <text x="50" y="133" fill="#f2f7fc" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" letter-spacing="-1">Lucas Journoud</text>
+  <text x="53" y="179" fill="#5eead4" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Développeur logiciel C/C++</text>
+  <text x="54" y="230" fill="#b4c7d9" font-family="Arial, Helvetica, sans-serif" font-size="17">Rendu 3D  /  Applications Qt  /  Full-stack</text>
+  <g transform="translate(905 151)">
+    <circle r="76" fill="url(#sphere)" stroke="#5eead4" stroke-width="1.5" opacity=".8"/>
+    <ellipse rx="76" ry="25" fill="none" stroke="#5eead4" stroke-width=".7" opacity=".32" transform="rotate(-28)"/>
+    <ellipse rx="25" ry="76" fill="none" stroke="#5eead4" stroke-width=".7" opacity=".32" transform="rotate(-28)"/>
+    <path d="M-192 -60L-58 -49 53 -23 229 -113" fill="none" stroke="#5eead4" stroke-width="2"/>
+    <path d="M-58 -49L-136 -130" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity=".6"/>
+    <path d="M-192 72L-70 29 65 39 226 95" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity=".65"/>
+    <circle cx="-58" cy="-49" r="4" fill="#5eead4"/><circle cx="53" cy="-23" r="3" fill="#5eead4"/><circle cx="-70" cy="29" r="3" fill="#38bdf8"/>
+    <text x="-44" y="8" fill="#e8f8ff" font-family="Consolas, monospace" font-size="31" font-weight="700">C++</text>
+  </g>
+</svg>
