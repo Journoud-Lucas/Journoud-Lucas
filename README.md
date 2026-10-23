@@ -4,17 +4,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-journoud/"><img src="https://img.shields.io/badge/LinkedIn-Lucas_Journoud-1877B8?style=flat-square" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Formation-Master_Informatique_Lyon_2-243B53?style=flat-square" alt="Master Informatique Lyon 2" />
   <img src="https://img.shields.io/badge/Localisation-Lyon-168A8A?style=flat-square" alt="Basé à Lyon" />
 </p>
 
 ## Concevoir. Comprendre. Optimiser.
 
-Diplômé d’un **Master Informatique de l’Université Lumière Lyon 2**, je développe des logiciels avec une attention particulière aux **performances, à la fiabilité et à l’expérience utilisateur**.
+Je conçois et fais évoluer des **logiciels C/C++**, des **applications 3D** et des **interfaces Qt**, avec une attention particulière aux **performances, à la fiabilité et à l’expérience utilisateur**.
 
-Mon fil conducteur : comprendre comment les choses fonctionnent, du calcul d’un rayon lumineux au comportement d’une application en production. Mon parcours associe développement C++, applications 3D, interfaces Qt et outils web métier.
+J’apporte une expérience concrète de la **conception, du débogage et de l’optimisation** : comprendre une base de code existante, corriger les anomalies et les fuites mémoire, améliorer les temps de calcul et traduire les besoins métier en fonctionnalités utilisables.
 
 **Mon cœur de métier : le C++. Mon complément : une expérience concrète du full-stack, de Python et du travail en équipe internationale.**
+
+Mon fil conducteur : comprendre comment les choses fonctionnent, du calcul d’un rayon lumineux au comportement d’une application en production. Mon parcours s’appuie également sur un **Master Informatique de l’Université Lumière Lyon 2**.
 
 [LinkedIn](https://www.linkedin.com/in/lucas-journoud/) · [Mes dépôts](https://github.com/Journoud-Lucas?tab=repositories)
 
